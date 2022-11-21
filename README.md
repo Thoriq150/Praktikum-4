@@ -12,7 +12,7 @@
 # Latihan-2
 ## Membuat Data Program Sederhana
 #### - Buatlah list
-#### - Gunakan while lalu isi list tersebut dengan nilai
+#### - Gunakan while lalu isi inputan list tersebut dengan nilai
 #### - Dan gunakan if untuk membuat tabel dan for untuk datanya
 ![gambar3](https://user-images.githubusercontent.com/115950790/202964943-d1498b93-dd97-4b72-a4e2-75b0a223571f.png)
 ![gambar4](https://user-images.githubusercontent.com/115950790/202964973-5d7e24a4-82c9-4ef0-b648-9b83cce86d75.png)
