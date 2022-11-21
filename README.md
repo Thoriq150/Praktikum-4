@@ -18,5 +18,7 @@
 ![gambar4](https://user-images.githubusercontent.com/115950790/202964973-5d7e24a4-82c9-4ef0-b648-9b83cce86d75.png)
 #### Lalu akan muncul seperti ini
 ![gambar5](https://user-images.githubusercontent.com/115950790/202965080-b6262799-73d8-41d9-887f-9946cab51186.png)
+#### BERIKUT FLOWCHARTNYA
+![flowchart](https://user-images.githubusercontent.com/115950790/203038427-0086d05c-d089-4479-84b2-da5ebd4742e3.png)
 
 
